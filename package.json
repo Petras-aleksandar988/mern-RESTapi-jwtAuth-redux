@@ -2,6 +2,7 @@
   "name": "mern-restapi-jwt-redux",
   "version": "1.0.0",
   "description": "mern app with res api, jwt authentication, redux ",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
